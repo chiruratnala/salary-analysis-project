@@ -1,0 +1,101 @@
+work_year,experience_level,employment_type,job_title,employee_residence,remote_ratio,company_location,company_size
+2022,Executive-level,Freelance,Analytics Engineer,Germany,Hybrid,Canada,Small
+2023,Mid-level,Full-time,Machine Learning Engineer,Canada,Remote,United Kingdom,Small
+2022,Mid-level,Part-time,Data Architect,India,Hybrid,Canada,Small
+2023,Mid-level,Contract,Data Engineer,Australia,Hybrid,India,Large
+2023,Senior-level,Part-time,Data Scientist,Germany,On-site,United Kingdom,Large
+2025,Executive-level,Contract,Data Scientist,United Kingdom,On-site,Canada,Large
+2023,Entry-level,Part-time,Business Intelligence Developer,United States,On-site,United States,Large
+2023,Mid-level,Freelance,Data Scientist,Germany,Hybrid,United States,Small
+2025,Mid-level,Contract,Data Scientist,France,On-site,Portugal,Medium
+2025,Mid-level,Full-time,Data Engineer,United States,Hybrid,Portugal,Large
+2022,Senior-level,Full-time,Data Engineer,Australia,Remote,United States,Medium
+2022,Executive-level,Part-time,Data Architect,Australia,Remote,Germany,Medium
+2024,Executive-level,Part-time,Data Scientist,Canada,Hybrid,India,Small
+2024,Entry-level,Contract,Data Analyst,Australia,On-site,France,Medium
+2022,Entry-level,Part-time,Data Engineer,France,Remote,United States,Small
+2022,Entry-level,Full-time,Business Intelligence Developer,France,On-site,Canada,Small
+2022,Executive-level,Freelance,Analytics Engineer,Australia,Hybrid,United Kingdom,Small
+2022,Mid-level,Full-time,Data Analyst,Germany,On-site,India,Large
+2023,Mid-level,Contract,Data Scientist,United States,Remote,France,Large
+2024,Entry-level,Part-time,Data Architect,United States,Remote,Canada,Small
+2024,Entry-level,Part-time,Data Engineer,Canada,On-site,India,Small
+2023,Mid-level,Full-time,Analytics Engineer,India,Hybrid,United States,Large
+2022,Mid-level,Contract,Data Architect,Canada,On-site,Portugal,Large
+2024,Senior-level,Freelance,Data Engineer,Germany,Remote,United Kingdom,Medium
+2022,Senior-level,Contract,Analytics Engineer,France,Remote,Germany,Small
+2022,Senior-level,Full-time,Machine Learning Engineer,France,On-site,India,Large
+2024,Mid-level,Part-time,Business Intelligence Developer,Canada,Remote,France,Large
+2022,Senior-level,Contract,Data Architect,Portugal,Remote,Portugal,Large
+2022,Executive-level,Part-time,Analytics Engineer,Canada,On-site,Australia,Medium
+2025,Senior-level,Freelance,Data Architect,Australia,Remote,Canada,Small
+2022,Mid-level,Freelance,Data Architect,India,On-site,Portugal,Large
+2024,Executive-level,Contract,Data Engineer,Portugal,On-site,India,Medium
+2024,Entry-level,Part-time,Data Analyst,United Kingdom,Remote,Portugal,Medium
+2023,Mid-level,Contract,Machine Learning Engineer,Portugal,Remote,India,Small
+2025,Executive-level,Full-time,Data Architect,United Kingdom,Hybrid,France,Medium
+2025,Entry-level,Freelance,Data Analyst,Australia,Remote,Portugal,Large
+2024,Executive-level,Freelance,Data Architect,Germany,Hybrid,France,Small
+2024,Mid-level,Contract,Data Scientist,India,Hybrid,United Kingdom,Medium
+2025,Senior-level,Contract,Data Scientist,Canada,Remote,Portugal,Small
+2023,Senior-level,Contract,Business Intelligence Developer,United Kingdom,On-site,Canada,Large
+2024,Senior-level,Part-time,Data Engineer,Germany,On-site,Canada,Large
+2025,Senior-level,Contract,Analytics Engineer,Germany,Remote,Germany,Small
+2023,Executive-level,Full-time,Analytics Engineer,Australia,Remote,France,Small
+2024,Executive-level,Contract,Data Scientist,Portugal,Hybrid,Germany,Small
+2024,Senior-level,Freelance,Business Intelligence Developer,France,Hybrid,India,Medium
+2022,Senior-level,Part-time,Business Intelligence Developer,Germany,Remote,Germany,Large
+2022,Executive-level,Full-time,Machine Learning Engineer,France,On-site,United Kingdom,Small
+2022,Mid-level,Full-time,Business Intelligence Developer,France,On-site,Germany,Large
+2024,Mid-level,Full-time,Data Engineer,Australia,Remote,Portugal,Medium
+2022,Executive-level,Full-time,Business Intelligence Developer,Australia,On-site,India,Small
+2025,Senior-level,Full-time,Business Intelligence Developer,United States,Hybrid,Germany,Small
+2023,Executive-level,Part-time,Data Analyst,Australia,On-site,France,Large
+2023,Executive-level,Contract,Data Scientist,Portugal,Remote,India,Medium
+2024,Executive-level,Part-time,Data Analyst,Australia,Hybrid,Portugal,Medium
+2024,Senior-level,Freelance,Data Scientist,India,Hybrid,United States,Medium
+2024,Senior-level,Full-time,Data Analyst,United Kingdom,Remote,Australia,Large
+2025,Entry-level,Freelance,Data Analyst,Germany,On-site,Portugal,Medium
+2024,Entry-level,Contract,Machine Learning Engineer,Australia,On-site,Portugal,Large
+2025,Entry-level,Part-time,Data Engineer,France,Remote,Australia,Large
+2023,Entry-level,Full-time,Analytics Engineer,Germany,Remote,India,Large
+2023,Mid-level,Full-time,Business Intelligence Developer,Portugal,Hybrid,Canada,Medium
+2024,Senior-level,Contract,Data Scientist,Germany,On-site,United States,Large
+2023,Entry-level,Freelance,Data Engineer,Canada,On-site,United Kingdom,Large
+2024,Senior-level,Contract,Data Architect,Canada,On-site,United States,Small
+2022,Senior-level,Freelance,Business Intelligence Developer,India,On-site,Germany,Small
+2023,Executive-level,Part-time,Data Architect,Germany,Remote,France,Medium
+2024,Executive-level,Full-time,Analytics Engineer,France,Remote,Australia,Large
+2023,Entry-level,Contract,Machine Learning Engineer,United Kingdom,Hybrid,Australia,Medium
+2025,Executive-level,Freelance,Data Analyst,Germany,On-site,Australia,Small
+2025,Entry-level,Contract,Business Intelligence Developer,Portugal,Hybrid,France,Medium
+2023,Executive-level,Contract,Data Analyst,France,Hybrid,India,Small
+2025,Executive-level,Contract,Analytics Engineer,France,Remote,France,Large
+2025,Executive-level,Freelance,Data Scientist,Germany,Hybrid,Portugal,Small
+2023,Entry-level,Contract,Machine Learning Engineer,Portugal,Hybrid,Germany,Medium
+2023,Executive-level,Contract,Data Analyst,France,Remote,France,Medium
+2025,Entry-level,Full-time,Machine Learning Engineer,Australia,Remote,Canada,Large
+2023,Mid-level,Full-time,Machine Learning Engineer,United States,Hybrid,United States,Medium
+2025,Senior-level,Full-time,Data Analyst,Germany,Remote,France,Small
+2023,Entry-level,Full-time,Business Intelligence Developer,Portugal,On-site,United Kingdom,Small
+2024,Mid-level,Contract,Data Analyst,Canada,On-site,Australia,Small
+2025,Entry-level,Freelance,Machine Learning Engineer,France,On-site,United Kingdom,Large
+2022,Entry-level,Freelance,Data Analyst,Germany,Hybrid,United States,Large
+2022,Senior-level,Freelance,Machine Learning Engineer,Germany,Remote,Germany,Large
+2022,Mid-level,Contract,Data Engineer,Australia,On-site,Germany,Small
+2024,Senior-level,Full-time,Data Architect,Australia,Remote,Canada,Medium
+2025,Entry-level,Part-time,Data Architect,France,On-site,United Kingdom,Large
+2025,Entry-level,Contract,Data Architect,Australia,On-site,France,Large
+2024,Senior-level,Freelance,Analytics Engineer,Australia,On-site,Australia,Large
+2024,Entry-level,Part-time,Analytics Engineer,France,On-site,France,Small
+2025,Executive-level,Part-time,Data Engineer,Germany,Remote,Portugal,Small
+2025,Mid-level,Part-time,Data Engineer,Australia,On-site,France,Medium
+2022,Senior-level,Contract,Data Engineer,Australia,Hybrid,United States,Large
+2023,Entry-level,Full-time,Data Engineer,United Kingdom,On-site,France,Medium
+2023,Executive-level,Full-time,Data Scientist,India,Remote,United Kingdom,Large
+2022,Executive-level,Part-time,Business Intelligence Developer,Germany,Hybrid,Canada,Medium
+2025,Executive-level,Contract,Data Engineer,Canada,Hybrid,Canada,Small
+2023,Executive-level,Contract,Analytics Engineer,Canada,On-site,India,Small
+2024,Entry-level,Part-time,Data Analyst,United Kingdom,On-site,United Kingdom,Small
+2024,Mid-level,Contract,Data Engineer,United States,Hybrid,Canada,Medium
+2025,Entry-level,Full-time,Data Scientist,France,Remote,United States,Small
